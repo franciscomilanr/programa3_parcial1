@@ -7,8 +7,8 @@
  <li><b>Materia: </b>Programacion estructurada</li>
  <li><b>Ciclo: </b>01/2022</li>
 <br>
-<ul>
 <li><b> En este programa se muestra el uso de: </b></li>
+<ul>
  <li> Entrada y salida de datos </li>
  <li> Operacion con datos </li>
 </ul>
